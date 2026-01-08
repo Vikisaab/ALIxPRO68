@@ -2,20 +2,20 @@ const fs = require('fs')
 const file = require.resolve(__filename)
 
 
-global.ownerNumber = ["923290717061@s.whatsapp.net"]
-global.nomerOwner = "923290717061"
-global.nomorOwner = ['923290717061']
+global.ownerNumber = ["923251070521@s.whatsapp.net"]
+global.nomerOwner = "923251070521"
+global.nomorOwner = ['923251070521']
 global.namaDeveloper = "千卂爪-ㄖ千匚" //jangn diubh bng
-global.namaOwner = "千卂爪-ㄖ千匚"
-global.namaBot = "Fam-bot"
+global.namaOwner = "ABDULLAH-PRO68"
+global.namaBot = "Abdullahꪜ11𝐂r
 global.versionBot = "ꪜ11"
-global.packname = "𝐅𝐀𝐌 𝐎𝐅𝐂 ꪜ11"
-global.author = "✨ FAM OFC MD ✨"
+global.packname = "ALI OFC ꪜ111"
+global.author = "✨ ALI OFC MD ✨"
 global.deployer = "*Owner of TBH*"
 global.ThM = 'https://iili.io/2yFPx0F.png'
 global.prefa = ['','!','.',',','🐤','🗿'] 
 global.travaSend = "1" // total travas a ser enviado
-
+𝐎𝐅𝐂
 
 
 fs.watchFile(file, () => {
